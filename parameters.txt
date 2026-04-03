@@ -1,0 +1,9 @@
+box_L=100.
+k_s=[500.,1000.]
+r_0=1.0
+k_d=100.
+R_0=1.5
+mu=-14.6
+epsilon_hp=-0.7
+single_run_time=100
+my_device=CPU
