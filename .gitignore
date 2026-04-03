@@ -1,3 +1,2 @@
 # Ignore all simulation result files ending in .gsd
 *.gsd
-box_*
